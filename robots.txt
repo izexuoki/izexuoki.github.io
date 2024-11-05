@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://izexuoki.github.io/CFq/sitemap_index.txt
+Sitemap: https://izexuoki.github.io/mYa/sitemap_index.txt
+Sitemap: https://izexuoki.github.io/tnd/sitemap_index.txt
+Sitemap: https://izexuoki.github.io/vFP/sitemap_index.txt
